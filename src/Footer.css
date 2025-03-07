@@ -1,0 +1,42 @@
+.footer-section {
+  background-color: black;
+  padding: 50px;
+  color: white;
+}
+
+.footer-heading {
+  font-family: "Syne", sans-serif;
+  font-weight: 800;
+  font-size: 64px;
+  text-align: center;
+  line-height: 80px;
+  text-transform: uppercase;
+}
+.footer-content p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 100%;
+  text-align: center;
+  letter-spacing: 0%;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.footer-menu {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  justify-content: flex-end;
+  font-family: "Syne", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0%;
+  color: #fff;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-menu li {
+  cursor: pointer;
+}
